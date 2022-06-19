@@ -22,7 +22,7 @@ Sadly not all of the flash games will run properly right now hopefully that will
 - [amhooman](https://github.com/amhooman)
 - [Aydeniguess](https://github.com/Aydeniguess)
 
-# original creators:
+# Original creators:
 - [Decotron99](https://github.com/Decotron99)
 - [amhooman](https://github.com/amhooman)
 - [Aydeniguess](https://github.com/Aydeniguess)
