@@ -18,11 +18,16 @@ Sadly not all of the flash games will run properly right now hopefully that will
 - [Ruffle](https://ruffle.rs)
 - [Bootstrap](https://getbootstrap.com)
 
-# Check these mans out:
+# Continuation:
 - [amhooman](https://github.com/amhooman)
 - [Aydeniguess](https://github.com/Aydeniguess)
-yeet
 
+# original creators:
+- [Decotron99](https://github.com/Decotron99)
+- [amhooman](https://github.com/amhooman)
+- [Aydeniguess](https://github.com/Aydeniguess)
+- [PiSauser](https://github.com/PiSauser)
+- [greymesa](https://github.com/greymesa)
 
 This is a continuation of the first one by Ari and Slash
 ```txt
