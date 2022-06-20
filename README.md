@@ -24,7 +24,6 @@ Sadly not all of the flash games will run properly right now hopefully that will
 
 # Original creators:
 - [Decotron99](https://github.com/Decotron99)
-- [amhooman](https://github.com/amhooman)
 - [Aydeniguess](https://github.com/Aydeniguess)
 - [PiSauser](https://github.com/PiSauser)
 - [greymesa](https://github.com/greymesa)
